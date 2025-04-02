@@ -23,7 +23,7 @@ Vamos conectar e transformar dados em ações!
     </a>
 </p>
 
----
+--- 
 
 ## Tecnologias que uso no meu dia
 
